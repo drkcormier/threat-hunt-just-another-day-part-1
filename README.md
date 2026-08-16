@@ -19,11 +19,11 @@ The account in question belongs to a billing analyst. On paper, submissions work
 
 What we need you to work out:
 
-   · Whether this is really a curious employee, or something else
-   · What the account did that falls outside its role
-   · What sensitive material it reached, and where that material ended up
-   · Whether it stayed on one machine, or moved
-   · The honest root cause, once you've seen the evidence
+   - Whether this is really a curious employee, or something else
+   - What the account did that falls outside its role
+   - What sensitive material it reached, and where that material ended up
+   - Whether it stayed on one machine, or moved
+   - The honest root cause, once you've seen the evidence
 
 One thing to hold from the start. The clinic wants this written up as an insider who forgot to hand back some access. Don't accept that on trust. Some of the strongest evidence here is about where the account is being driven from, and some of it is about what you don't find. Follow the logs, not the paperwork.
 
